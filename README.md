@@ -1,3 +1,18 @@
+<img width="1430" alt="Screenshot 2023-12-02 at 21 34 25" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/748abb83-8841-4566-aeeb-ca0a33b3b103">
+
+<img width="1440" alt="Screenshot 2023-12-02 at 21 34 45" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/71681d2c-7afb-4edd-9895-51ccd447c032">
+
+
+<img width="1440" alt="Screenshot 2023-12-02 at 21 34 03" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/7124bcb9-36d2-4838-8552-83034f33e0a7">
+
+<img width="1440" alt="Screenshot 2023-12-02 at 21 33 40" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/c71fce17-8b26-479b-a48a-0641cfac2c6a">
+
+<img width="1440" alt="Screenshot 2023-12-02 at 21 33 19" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/de9f4e7b-56da-4a38-845a-7d2c8e7f71f0">
+
+<img width="1440" alt="Screenshot 2023-12-02 at 21 35 12" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/cc54a1e9-0895-47fa-bc83-b8f9f1c296ce">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
