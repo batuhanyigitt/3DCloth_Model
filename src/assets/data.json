@@ -1,0 +1,16 @@
+[
+  {
+    "name": "TShirt",
+    "dir": "TShirt",
+    "wdith": "2.8",
+    "height": "3",
+    "y": "0"
+  },
+  {
+    "name": "ModelShirt",
+    "dir": "ModelShirt",
+    "wdith": "4.2",
+    "height": "6",
+    "y": "0.8"
+  }
+]

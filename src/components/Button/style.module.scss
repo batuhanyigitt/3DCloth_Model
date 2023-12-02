@@ -1,0 +1,12 @@
+.buttonStyle {
+    @apply flex justify-center items-center shadow-md drop-shadow-md filter w-24 md:w-185 h-9 md:h-51 rounded-full font-bold text-base md:text-lg;
+    &.activeAddition {
+        @apply bg-zinc-800 text-white
+    }
+    
+    &.unActiveAddition {
+        @apply bg-white text-black
+    }
+}
+
+ 
