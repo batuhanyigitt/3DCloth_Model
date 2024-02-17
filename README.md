@@ -1,3 +1,27 @@
+# WordPress WooCommerce WebGL T-Shirt Designer Plugin
+
+This plugin facilitates the integration of a WebGL T-Shirt Designer application within your WordPress WooCommerce environment, enabling designers to create and sell their custom-designed products seamlessly.
+
+# Features
+
+# WebGL T-Shirt Designer: 
+Incorporates a WebGL-based application for designing t-shirts with a 3D model directly within your WordPress WooCommerce site.
+
+# Custom Product Creation: 
+Empowers users to design and customize their own t-shirts with a wide range of options, including colors, patterns, and graphics.
+
+# Seamless WooCommerce Integration: 
+Integrates seamlessly with WooCommerce, allowing users to purchase their custom-designed products directly from the website.
+
+# Designer Marketplace:
+Enables designers to showcase and sell their creations through your WooCommerce platform, fostering a vibrant community of creators and customers.
+Responsive Design: Ensures compatibility and usability across various devices and screen sizes, providing a seamless user experience.
+
+# How It Works
+
+The plugin seamlessly integrates the WebGL T-Shirt Designer application into your WordPress WooCommerce website, providing users with a user-friendly interface to design and purchase custom t-shirts. Designers can showcase their creativity, and customers can personalize their products before making a purchase, all within the familiar environment of your WooCommerce storefront.
+
+
 <img width="1430" alt="Screenshot 2023-12-02 at 21 34 25" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/748abb83-8841-4566-aeeb-ca0a33b3b103">
 
 <img width="1440" alt="Screenshot 2023-12-02 at 21 34 45" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/71681d2c-7afb-4edd-9895-51ccd447c032">
