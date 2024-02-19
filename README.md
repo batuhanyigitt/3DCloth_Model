@@ -2,7 +2,7 @@
 
 This plugin facilitates the integration of a WebGL T-Shirt Designer application within your WordPress WooCommerce environment, enabling designers to create and sell their custom-designed products seamlessly.
 
-<img width="1250" alt="Screenshot 2023-12-02 at 21 34 25" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/748abb83-8841-4566-aeeb-ca0a33b3b103">
+<img width="1000" alt="Screenshot 2023-12-02 at 21 34 25" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/748abb83-8841-4566-aeeb-ca0a33b3b103">
 
 # Features
 
@@ -24,9 +24,9 @@ Responsive Design: Ensures compatibility and usability across various devices an
 The plugin seamlessly integrates the WebGL T-Shirt Designer application into your WordPress WooCommerce website, providing users with a user-friendly interface to design and purchase custom t-shirts. Designers can showcase their creativity, and customers can personalize their products before making a purchase, all within the familiar environment of your WooCommerce storefront.
 
 
-<img width="1440" alt="Screenshot 2023-12-02 at 21 34 45" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/71681d2c-7afb-4edd-9895-51ccd447c032">
+<img width="1000" alt="Screenshot 2023-12-02 at 21 34 45" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/71681d2c-7afb-4edd-9895-51ccd447c032">
 
-<img width="1440" alt="Screenshot 2023-12-02 at 21 34 03" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/7124bcb9-36d2-4838-8552-83034f33e0a7">
+<img width="1000" alt="Screenshot 2023-12-02 at 21 34 03" src="https://github.com/batuhanyigitt/3DCloth_Model/assets/70327837/7124bcb9-36d2-4838-8552-83034f33e0a7">
 
 
 # Getting Started with Create React App
